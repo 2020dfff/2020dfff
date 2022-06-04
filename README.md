@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 <!--
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sharkiefff)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1YTbMS4QQkxCbvNQGjcOLsOHwtXORtxaYqLx86qPcGg&cl=ffffff&w=a"></script>
