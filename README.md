@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=1YTbMS4QQkxCbvNQGjcOLsOHwtXORtxaYqLx86qPcGg"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1YTbMS4QQkxCbvNQGjcOLsOHwtXORtxaYqLx86qPcGg&cl=ffffff&w=a"></script>
