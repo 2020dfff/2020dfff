@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-You can check my personal website here:
-
-<https://sharkiefff.xyz/>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2020dfff&show_icons=true)
 
 
